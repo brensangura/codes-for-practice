@@ -50,3 +50,6 @@ elif operation == "4":
         print("Error: Division by zero is not allowed.")
 else:
     print("Invalid operation")
+
+
+print("Go Sleep Now you Sangura")
